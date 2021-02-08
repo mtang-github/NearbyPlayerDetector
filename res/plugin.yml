@@ -1,0 +1,7 @@
+name: NearbyPlayerDetector
+version: 3
+author: danny
+main: us.danny.nearbyplayerdetector.Main
+commands:
+  togglePlayerDetector:
+    description: Toggle the player detector on/off
